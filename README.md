@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Singh Yadav</h1>
 <h3 align="center">A passionate App Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajZzcTVrOTFxaDhzNHhrbXA1eHh4djQ3azZhZXZxcmsxZjBxd2M2byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp">
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Kotlin MultiPlatform**
 
 - 💬 Ask me about **Android,C++**
 
